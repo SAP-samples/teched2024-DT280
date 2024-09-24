@@ -38,8 +38,6 @@ The requirements to follow the exercises in this repository are:
 >> → A dedicated ABAP system with pre-generated packages for the hands-on workshop participants will be provided.   
 >> → Access to the system details for this on-site workshop will be provided by the instructors during the session.    
 
-
-
 ## Slides
 [Presentation](https://github.com/SAP-samples/abap-platform-rap630/blob/main/slides/RAP630_RAP_Extensibility_2405.pdf) 
 
@@ -85,36 +83,15 @@ https://help.sap.com/docs/SAP_S4HANA_CLOUD/6aa39f1ac05441e5a23f484f31e477e7/1b34
 
 ## Download and Installation
 
-The packages **ZRAP630_SOL** and **ZRAP630_SOL_EXT** that contain the solutions of this workshop can be downloaded via abapGIT into an *SAP BTP, ABAP Environment* system or into the *SAP S/4HANA Cloud, ABAP environment* system.
-
-> Please note that these packages have already been installed in the SAP BTP, ABAP Environment Trial systems !   
-> So there is no need to install them on an ABAP Environment trial system.   
-
-<details>
-  <summary>Click to expand download and installation steps.</summary>
-
-  The steps to download and install the package of the base RAP business object can be found here:   
-   
-1. Create a package **'ZRAP630_SOL'** with **'ZLOCAL'** as the superpackage.  
-2. Link this package with the URL of the RAP630 GitHub repository `https://github.com/SAP-samples/abap-platform-rap630`.
-3. Use the branch `main`.
-4. Pull changes.
-5. Use mass activation to activate the objects that have been imported in step 3.
-6. Publish the service binding `ZRAP630UI_SHOP_O4_SOL`.
-
-   After you have performed the aforementioned steps you can continue to download the solution package of the extension project **ZRAP630_SOL_EXT**.
-
-   Since these are stored for technical reasons in another Github repository **abap-platform-rap630-ext** you have to
-   to download the source from that repository 'https://github.com/SAP-samples/abap-platform-rap630-ext'.
-   
-   
-</details>
+You have to install the latest version of ADT as described in section **Requirements for attending this workshop**.  
 
 ## Known Issues
-<!-- You may simply state "No known issues. -->
+
+No known issues.  
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
+
+[Create an issue](issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
