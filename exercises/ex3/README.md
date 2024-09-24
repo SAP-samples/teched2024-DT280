@@ -32,9 +32,6 @@ Order of extension | Repository object name | Name           | Comment
 
 For **SAP BTP ABAP Environment** and for **SAP S/4HANA Cloud ABAP Environment** there is an [extension field wizard](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/generating-extension-fields) available which will use in this exercise to perform all the heavy lifting to extend your data model.
 
-
-# Exercise 3 - Extend the CDS data model using the field extension wizard 
-
 The **extension field wizard** can be started from the consumption (c-view) or interface projection view (i-view) or from the underlying restricted base view (r-view). Depending on which view is used as the starting point certain options are pre-set in the wizard. 
 
 ![Start options for the extension field wizard](images/ex3_with_wizard_010.png)   
@@ -42,6 +39,9 @@ The **extension field wizard** can be started from the consumption (c-view) or i
 When for example using the C-view as the entry point the wizard will suggest to extend the C-view by default.
 
 ## Excercise 3.1 - Extend the data structure with the extension field wizard
+
+<details>
+  <summary>🔵 Click to expand!</summary>
 
 1. Right click on the consumption projection view `ZRAP630C_ShopTP_###` (the one with the statement `provider contract TRANSACTIONAL_QUERY` ) and choose **Generate ABAP Repository Objects ..**.
 
@@ -182,7 +182,7 @@ extend view entity ZRAP630C_SHOPTP_05A with
 9. Select a transport request
 
 
-
+</details>
 
 
 ## Excercise 3.2 - Check the data structure extension
