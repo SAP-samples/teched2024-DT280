@@ -1,7 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2024-DT280)](https://api.reuse.software/info/github.com/SAP-samples/teched2024-DT280)
 
 # RAP630 - Cloud ERP Extensibility
-https://github.com/SAP-samples/abap-platform-rap630/tree/main
 
 ## Description
 
@@ -66,15 +65,15 @@ In _Exercise 4_ you will continue to _extend the behavior_ of the base RAP busin
 
 So let us start and have a look at the _Getting Started_ section.
 
-- [Getting Started - Generate starter package](exercises/ex0/)
+   - [Getting Started - Generate starter package](exercises/ex0/)   
 
 You can the continue and build custom code that leverages released API's
 
-   -  [Exercise 1 - New App on stack (Developer Extensibility)](exercises/ex1/)
+   -  [Exercise 1 - New App on stack (Developer Extensibility)](exercises/ex1/)   
 
 Finally you will learn how to extend a RAP Business object   
 
-   - [Exercise 2, 3 and 4 - Extend a RAP business object (behavior and data model)](exercises/ex2/README_235.md)
+   - [Exercise 2, 3 and 4 - Extend a RAP business object (behavior and data model)](exercises/ex2/README_235.md)   
 
 ## Online Help
 
@@ -91,7 +90,7 @@ No known issues.
 
 ## How to obtain support
 
-[Create an issue](issues) in this repository if you find a bug or have questions about the content.
+[Create an issue](issues/) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
