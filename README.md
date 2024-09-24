@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the RAP hands-on workshop called _Cloud ERP Extensibility_ where _Developer Extensibility_ is used.  
+This repository contains the material for the RAP hands-on workshop called _Cloud ERP Extensibility_ where _on-stack Developer Extensibility_ is used.  
 
 Developer extensibility as defined by SAP basically encompasses two activities 
 
