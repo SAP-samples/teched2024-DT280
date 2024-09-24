@@ -1,11 +1,11 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-rap630)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-rap630)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2024-DT280)](https://api.reuse.software/info/github.com/SAP-samples/teched2024-DT280)
 
 # RAP630 - Cloud ERP Extensibility
 https://github.com/SAP-samples/abap-platform-rap630/tree/main
 
 ## Description
 
-This repository contains the material for the RAP hands-on workshop called _RAP630 - Use ABAP Cloud for developer extensibility_ where _Developer Extensibility_ is used.  
+This repository contains the material for the RAP hands-on workshop called _RAP630 - Cloud ERP Extensibility_ where _Developer Extensibility_ is used.  
 
 Developer extensibility as defined by SAP basically encompasses two activities 
 
@@ -29,16 +29,6 @@ This session introduces attendees to the ABAP Cloud programming model and how th
 ## 📋Requirements for attending this workshop 
 [^Top of page](#)
 
-> You need the latest version of the ABAP Development Tools for Eclipse (ADT) on your laptop or PC as well as the access to an appropriate ABAP system* to carry out the practical exercises of this workshop.  
->   (*) The supported ABAP systems are SAP BTP ABAP Environment, SAP S/4HANA Cloud, Public Edition.   
-> In order to run the workshop on an on prem system use the [on-prem]([https://github.com/SAP-samples/abap-platform-rap630/tree/on-prem) branch.  
-> The [openSource RAP Generator](https://github.com/SAP-samples/cloud-abap-rap) must be imported into the relevant system.   
-> 
-> **In the SAP ABAP Environment Trial systems the RAP Generator has already been imported for your convenience.**  
-
-<details>
-  <summary>Click to expand!</summary>
-
 The requirements to follow the exercises in this repository are:
 1. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html)
 2. [Create an user on the SAP BTP, ABAP environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html) (_Read exception below_)
@@ -47,7 +37,7 @@ The requirements to follow the exercises in this repository are:
 >> ⚠ **Exception regarding SAP-led events such as "ABAP Developer Day" and "SAP CodeJam"**:   
 >> → A dedicated ABAP system with pre-generated packages for the hands-on workshop participants will be provided.   
 >> → Access to the system details for this on-site workshop will be provided by the instructors during the session.    
-</details>
+
 
 
 ## Slides
