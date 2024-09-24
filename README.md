@@ -28,14 +28,11 @@ This session introduces attendees to the ABAP Cloud programming model and how th
 ## 📋Requirements for attending this workshop 
 [^Top of page](#)
 
-The requirements to follow the exercises in this repository are:
+The requirements to follow the exercises in this repository are:  
+
 1. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html)
 2. [Create an user on the SAP BTP, ABAP environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html) (_Read exception below_)
 3. [Create an ABAP Cloud Project](https://developers.sap.com/tutorials/abap-environment-create-abap-cloud-project.html)
-
->> ⚠ **Exception regarding SAP-led events such as "ABAP Developer Day" and "SAP CodeJam"**:   
->> → A dedicated ABAP system with pre-generated packages for the hands-on workshop participants will be provided.   
->> → Access to the system details for this on-site workshop will be provided by the instructors during the session.    
 
 ## Slides
 [Presentation](https://github.com/SAP-samples/abap-platform-rap630/blob/main/slides/RAP630_RAP_Extensibility_2405.pdf) 
@@ -57,9 +54,7 @@ The second aspect of developer extensibility is the option to extend an extensib
 
 In _Exercise 2_ you will _extend the behavior_ of the base RAP business object that has been generated in the _Getting Started_ section. You will learn how extend the behavior of the base RAP BEO by validations, determinations and side effects. 
 
-In _Exercise 3_ you will then continue to _extend the data model_ with additional fields. 
-
-> Since with the latest release 2408 an **_Extension Field Wizard_** has been delivered we have to different scripts for ABAP Environement systems and on premise systems (SAP S/4HANA 2023). 
+In _Exercise 3_ you will then continue to _extend the data model_ with additional fields. Here you will use the new **_Extension Field Wizard_** which has recently been delivered for the ABAP Environement systems.  
 
 In _Exercise 4_ you will continue to _extend the behavior_ of the base RAP business object by adding an action. Since actions can only added via an extension to fields that have been added itself via an extension, adding an action via an extension must be performed after Exercise 3.   
 
