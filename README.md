@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2024-DT280)](https://api.reuse.software/info/github.com/SAP-samples/teched2024-DT280)
 
-# RAP630 - Cloud ERP Extensibility
+# Cloud ERP Extensibility
 
 ## Description
 
@@ -90,7 +90,7 @@ No known issues.
 
 ## How to obtain support
 
-[Create an issue](issues/) in this repository if you find a bug or have questions about the content.
+[Create an issue](../issues/) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
