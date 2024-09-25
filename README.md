@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2024-DT280)](https://api.reuse.software/info/github.com/SAP-samples/teched2024-DT280)
 
-# Cloud ERP Extensibility
+# DT280 - Cloud ERP Extensibility
 
 ## Description
 
