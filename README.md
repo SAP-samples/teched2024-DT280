@@ -60,7 +60,7 @@ In _Exercise 4_ you will continue to _extend the behavior_ of the base RAP busin
 
 So let us start and have a look at the _Getting Started_ section.
 
-   - [Getting Started - Generate starter package](exercises/ex0/)   
+   - [Getting Started - Generate starter packages and extensible RAP BO](exercises/ex0/)   
 
 You can the continue and build custom code that leverages released API's
 
